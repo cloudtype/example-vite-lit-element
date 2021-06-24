@@ -1,4 +1,6 @@
 {
+  "name": "example-vite-lit-element",
+  "description": "example-vite-lit-element",
   "version": "0.0.0",
   "main": "dist/my-element.es.js",
   "exports": {
